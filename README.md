@@ -6,5 +6,8 @@ FeedSpera 데스크톱 앱 설치 파일을 배포하는 공개 저장소입니�
 - 최신 버전: [Releases](https://github.com/fdbackco-design/feedspera-release/releases/latest)
   - Windows: `FeedSpera-Setup-win-x64.exe`
   - macOS (Apple Silicon): `FeedSpera-mac-arm64.dmg`
+- 프리뷰(시험용): [preview](https://github.com/fdbackco-design/feedspera-release/releases/tag/preview)
+  - Windows: `FeedSpera-Preview-Setup-win-x64.exe`
+  - macOS (Apple Silicon): `FeedSpera-Preview-mac-arm64.dmg`
 
-릴리즈는 FeedSpera main 배포 때 자동으로 올라갑니다. 서명하지 않은 설치 파일이라 처음 실행할 때 OS 경고가 나올 수 있습니다.
+릴리즈는 FeedSpera main 배포 때, 프리뷰는 dev 병합 때 자동으로 올라갑니다(프리뷰는 같은 자리에 덮어씀). 서명하지 않은 설치 파일이라 처음 실행할 때 OS 경고가 나올 수 있습니다.
